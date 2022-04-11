@@ -1,1 +1,3 @@
-Değişkenler
+05-Değişkenler;
+
+
