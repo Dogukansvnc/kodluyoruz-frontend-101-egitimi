@@ -1,1 +1,1 @@
-Variables
+Değişkenler
